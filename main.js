@@ -12,6 +12,7 @@ const zoomImg = (e) => {
 
   const locationMouseX = (imgX - x) * -1;
   const locationMouseY = (imgY - y) * -1;
+  
 
   img.style.transformOrigin = `${locationMouseX}px ${locationMouseY}px`;
   img.classList.add("zoom-img");
