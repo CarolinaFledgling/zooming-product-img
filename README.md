@@ -8,4 +8,4 @@ Image zoom is an important product feature for merchants, allowing buyers to enl
 
 ## Preview the website live on : [DEMO](https://carolinafledgling.github.io/zooming-product-img/)
 
-[transform-origin](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-origin)
+Good to know :[transform-origin](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-origin)
